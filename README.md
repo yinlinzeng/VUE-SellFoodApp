@@ -28,7 +28,3 @@ npm run dev   /    npm start
 
 ```
 
-### 项目动图展示
-- ![image](https://raw.githubusercontent.com/wiki/aabig/ImageBed/eleme-demo-index.gif)
-- ![image](https://raw.githubusercontent.com/wiki/aabig/ImageBed/eleme-demo-buy.gif)
-- ![image](https://raw.githubusercontent.com/wiki/aabig/ImageBed/eleme-demo-other.gif)
