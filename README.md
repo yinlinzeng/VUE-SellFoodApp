@@ -4,9 +4,9 @@
 - 内容涵盖外卖App四大核心模块：商品列表、商品详情、客人评论、商户介绍
 - 顺畅的滑动体验，感谢[better-scroll](https://github.com/ustbhuangyi/better-scroll)
 - 后台数据放置在本地的data.json中，利用axios请求数据的同时，采用[mockjs](http://mockjs.com)(点击前往mockjs官网)对ajax请求进行拦截，从而达到前后端分离开发
-- [项目展示地址(点击前往)](https://aabig.github.io/Eleme-app
+- [项目展示地址(点击前往)](http://114.116.254.46/VueSaller
 )，也可以扫描下方二维码在移动端上体验：
-- ![](https://raw.githubusercontent.com/wiki/aabig/ImageBed/ElemeCode.png)
+- ![](https://raw.githubusercontent.com/yinlinzeng/image/master/blogimg/vue.png)
 
 
 ### 学习心得：
@@ -16,9 +16,6 @@
 - 组件化开发思想加深，包括评星体系，评价体系，均是采用组件化开发
 - 整个项目从前期需求分析，到代码编写，最后编译打包，让我对一个项目完整的开发流程有了比较清晰的认知。
 
-### 感谢：
-- 感谢渡一教育的老师，深入浅出的讲解Vue的各项知识
-- 感谢慕课网开源[源码](https://github.com/ustbhuangyi/vue-sell)，让我在很多脑袋发懵的时刻给予我正确的前进方向
 
 ### Build Setup
 
